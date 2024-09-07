@@ -1,5 +1,11 @@
 /* cspell:disable-file */
 /* webkit printing magic: print all background colors */
+/* both supported */
+/* :root {
+	color-scheme: light dark; 
+	
+  }
+*/
 html {
 	-webkit-print-color-adjust: exact;
 }
